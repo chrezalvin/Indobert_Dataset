@@ -1,0 +1,2 @@
+Note:
+Dataset ini di generate menggunakan grok free tier per BAB pada .pdf yang belum di-OCR 

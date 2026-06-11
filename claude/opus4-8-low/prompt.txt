@@ -1,0 +1,14 @@
+Saya ingin membuat soal berdasarkan buku, dan memasukannya ke .csv. Kolom-kolomnya adalah sebagai berikut:
+
+bab: label untuk bab
+question: berisi pertanyaan deskriptif
+answer_key: berisi jawaban yang tepat deskriptif terhadap question
+student_answer: berisi jawaban siswa (tolong di generate juga)
+label: benar/salah tergantung jawaban siswa
+level_of_reasoning: analyzing/creating/evaluating sesuai topik dari question
+score: 0-5 tergantung tingkat kebenaran siswa
+adaptive_feedback: berisi alasan kenapa jawaban siswa benar/salah
+
+Generate 20 soal setiap bab yang berisi 10 pertanyaan yang dijawab benar & salah (oleh siswa)
+
+Apakah kamu dapat generate .csv nya? Saya sudah attach buku .pdfnya.
